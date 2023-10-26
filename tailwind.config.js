@@ -23,7 +23,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["Graphik", "sans-serif"],
-        roboto: ["Roboto", "sans-serif"],
+        roboto: ["Montserrat", "sans-serif"],
         serif: ["Merriweather", "serif"],
       },
     },
