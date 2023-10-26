@@ -21,6 +21,11 @@ module.exports = {
         secondary: "#6c757d",
         light: "#f8f9fa",
       },
+      fontFamily: {
+        sans: ["Graphik", "sans-serif"],
+        roboto: ["Roboto", "sans-serif"],
+        serif: ["Merriweather", "serif"],
+      },
     },
   },
   plugins: [],
